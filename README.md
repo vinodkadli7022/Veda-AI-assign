@@ -1,4 +1,4 @@
-# VedaAI Assessment Creator
+# VedaAI 
 
 > AI-powered assessment and question paper generator for teachers — built as a full-stack engineering assignment.
 
